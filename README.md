@@ -4,12 +4,12 @@ El lenguaje JavaScript es utilizado ampliamente para construir software en todo 
 **LECCIONES:
 
 1. Funciones y tipos de datos
-- 1 - Introducción a JavaScript
-- 2 - Funciones, definición
-- 3 - Funciones, uso
-- 4 - Probando funciones
-- 5 - Haciendo cuentas
-- 6 - Poniendo topes
+- 1 - Introducción a JavaScript (texto)
+- 2 - Funciones, definición (division)
+- 3 - Funciones, uso (resta, multiplicacion)
+- 4 - Probando funciones (texto)
+- 5 - Haciendo cuentas (math round, min, max)
+- 6 - Poniendo topes (tope inferior)
 - 7 - Libros de la buena memoria
 - 8 - Booleanos
 - 9 - Palabras, sólo palabras
