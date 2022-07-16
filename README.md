@@ -4,23 +4,23 @@ El lenguaje JavaScript es utilizado ampliamente para construir software en todo 
 **LECCIONES:
 
 1. Funciones y tipos de datos
-- 1. Introducción a JavaScript
-- 2. Funciones, definición
-- 3. Funciones, uso
-- 4. Probando funciones
-- 5. Haciendo cuentas
-- 6. Poniendo topes
-- 7. Libros de la buena memoria
-- 8. Booleanos
-- 9. Palabras, sólo palabras
-- 10. Operando strings
-- 11. ¡GRITAR!
-- 12. ¿Y qué tal si...?
-- 13. ¿De qué signo sos?
-- 14. El retorno del booleano
-- 15. Los premios
-- 16. Tipos de datos
-- 17. Datos de todo tipo
+- 1 Introducción a JavaScript
+- 2 Funciones, definición
+- 3 Funciones, uso
+- 4 Probando funciones
+- 5 Haciendo cuentas
+- 6 Poniendo topes
+- 7 Libros de la buena memoria
+- 8 Booleanos
+- 9 Palabras, sólo palabras
+- 10 Operando strings
+- 11 ¡GRITAR!
+- 12 ¿Y qué tal si...?
+- 13 ¿De qué signo sos?
+- 14 El retorno del booleano
+- 15 Los premios
+- 16 Tipos de datos
+- 17 Datos de todo tipo
 
 2. Práctica Funciones y Tipos de Datos
 - 1. Comprando Hardware
