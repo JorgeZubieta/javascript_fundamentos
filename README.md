@@ -10,12 +10,12 @@ El lenguaje JavaScript es utilizado ampliamente para construir software en todo 
 - 4 - Probando funciones (texto)
 - 5 - Haciendo cuentas (math round, min, max)
 - 6 - Poniendo topes (tope inferior)
-- 7 - Libros de la buena memoria
-- 8 - Booleanos
-- 9 - Palabras, sólo palabras
-- 10 - Operando strings
-- 11 - ¡GRITAR!
-- 12 - ¿Y qué tal si...?
+- 7 - Libros de la buena memoria (>)
+- 8 - Booleanos ( &&, || )
+- 9 - Palabras, sólo palabras (comparar strings)
+- 10 - Operando strings (concatenacion)
+- 11 - ¡GRITAR! (convertir en mayusculas)
+- 12 - ¿Y qué tal si...? (encontrar el max si  math.max)
 - 13 - ¿De qué signo sos?
 - 14 - El retorno del booleano
 - 15 - Los premios
