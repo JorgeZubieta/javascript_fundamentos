@@ -12,6 +12,12 @@
 // 1000
 
 function aumentarFortuna() {
-    pesosEnMiBilletera = pesosEnMiBilletera*2;
+    // pesosEnMiBilletera = pesosEnMiBilletera*2;
+    pesosEnMiBilletera *= 2;
 }
-//  Nota -> uso de contadores/acumuladores
+//  Nota
+// Actualizaciones como duplicar, triplicar, incrementar en uno o en una cierta cantidad son tan comunes que JavaScript presenta algunos atajos:
+// x += y; //equivalente a x = x + y;
+// x *= y; //equivalente a x = x * y;
+// x -= y; //equivalente a x = x - y;
+// x++;    //equivalente a x = x + 1;
