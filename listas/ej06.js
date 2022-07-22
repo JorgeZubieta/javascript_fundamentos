@@ -23,3 +23,5 @@
 
 > pertenencias
 => ["espada","antorcha","ballesta"]
+
+// NOTA -> remover y agregar necesitan nombre de lista mas nombre del elemento!
