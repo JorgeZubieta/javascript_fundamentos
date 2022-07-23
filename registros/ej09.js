@@ -13,3 +13,5 @@ function agregarAPostresRapidos(listaDePostresRapidos, postre){
         agregar(listaDePostresRapidos, postre);
     }   
 }
+
+// NOTA -> Además, como agregarAPostresRapidos es un procedimiento, no t iene que retornar nada.
