@@ -7,3 +7,5 @@ function medallaSegunPuesto(puesto){
         return ["no existe","oro","plata","bronce"] [puesto];     
     }
 }
+
+// NOTA -> debi declarar una poscicion 0 como "no exist"
