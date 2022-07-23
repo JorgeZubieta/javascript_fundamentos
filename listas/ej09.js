@@ -3,6 +3,7 @@
 
 // posicion devuelve la posicion del elemento o -1 si no existe
 function posicion(unaLista, unElemento) /* ... */
+// NOTA -> en realidad devuelve la posición de la primera aparición
 
 // contiene devuele True or false
 function contiene(lista, elemento){
