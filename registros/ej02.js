@@ -5,6 +5,7 @@ let torreAzadi = {
     anioDeConstruccion: 1971
 };
 
+// vemos como declarmos sus campos numericos o string
 let monumentoNacionalALaBandera = {
     nombre: "Monumento Nacional a la Bandera",
     locacion: "Rosario, Argentina",
