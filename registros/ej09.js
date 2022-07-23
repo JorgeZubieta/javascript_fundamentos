@@ -10,6 +10,6 @@ function agregar(unaLista, unElemento) /* ... */
 
 function agregarAPostresRapidos(listaDePostresRapidos, postre){
     if (postre.tiempoDeCoccion <= 60) {
-      agregar(listaDePostresRapidos, postre);
+        agregar(listaDePostresRapidos, postre);
     }   
-  }
+}
